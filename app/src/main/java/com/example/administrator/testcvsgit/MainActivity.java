@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
 
-    private String name = "5555555555";
+    private String name = "the modify";
     private String age = "28";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
